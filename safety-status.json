@@ -1,8 +1,8 @@
 {
     "data": [
         {
-            "is32Bit": 0,
-            "is64Bit": 0
+            "is32Bit": 1,
+            "is64Bit": 1
         }
     ]
 }
