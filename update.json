@@ -27,7 +27,7 @@
     },
     "ismaintenance": {
         "version": "",
-        "name": "true"
+        "name": "false"
     },
     "libpg32NativeArm_v8a.so": {
         "version": "1.0.0",
