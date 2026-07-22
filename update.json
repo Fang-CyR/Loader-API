@@ -2,6 +2,9 @@
     "loader":{
         "version": "1.4"
     },
+    "update_ttl":{
+        "name": "Fixed crash\nAdded support..."
+    },
     "announce_ttl": {
         "name": "Welcome to skullshooter, click here to join our telegram channel for more announcement"
     },
@@ -23,7 +26,7 @@
         "url": "https://Fang-CyR.github.io/Loader-API/plugin64.apk"
     },
     "ismaintenance": {
-        "version": "2",
+        "version": "",
         "name": "false"
     },
     "libpg32NativeArm_v8a.so": {
