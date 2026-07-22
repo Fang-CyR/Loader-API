@@ -3,7 +3,7 @@
         {
             "loaderVersion": "1.0.0",
             "announcement": "Welcome",
-            "ismaintenance": 0
+            "ismaintenance": 1
         }
     ]
 }
