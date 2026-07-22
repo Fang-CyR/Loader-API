@@ -1,9 +1,9 @@
 {
     "data": [
         {
-            "loaderVersion": "1.0.6",
+            "loaderVersion": "1.0.9",
             "announcement": "Welcome",
-            "ismaintenance": true
+            "ismaintenance": 1
         }
     ]
 }
