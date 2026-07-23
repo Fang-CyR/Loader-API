@@ -6,7 +6,7 @@
         "name": "Fixed crash\nAdded support..."
     },
     "status32bit":{
-        "name": "Maintance"
+        "name": "Safe"
     },
     "status64bit": {
         "name": "unsafe"
