@@ -5,12 +5,6 @@
     "update_ttl":{
         "name": "Fixed crash\nAdded support..."
     },
-    "announce_ttl": {
-        "name": "Welcome to skullshooter, click here to join our telegram channel for more announcement"
-    },
-    "weather32": {
-        "typeWeather": "Rain"
-    },
     "status32bit":{
         "name": "Safe"
     },
@@ -22,7 +16,7 @@
         "url": "https://yourdomain.com/plugin.apk"
     },
     "plugin64": {
-        "version": "1.0.6",
+        "version": "1.1.6",
         "url": "https://Fang-CyR.github.io/Loader-API/plugin64.apk"
     },
     "ismaintenance": {
@@ -44,6 +38,6 @@
    "libpg64NativeArm_v7a.so": {
         "version": "1.0.0",
         "url": "https://Fang-CyR.github.io/Loader-API/liblibpg64-lib.so"
-   }
+    }
     
 }
