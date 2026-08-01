@@ -19,6 +19,6 @@
 
     "safety": {
         "status32": "SAFE",
-        "status64": "UNSAFE"
+        "status64": "MAINTANCE"
     }
 }
