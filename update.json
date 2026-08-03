@@ -24,7 +24,7 @@
         "url": "https://Fang-CyR.github.io/Loader-API/daemon64"
     },
     "ismaintenance": {
-        "message": "MAINTANCE !",
+        "version": "MAINTANCE !",
         "name": "true"
     },
     "libpg32NativeArm_v8a.so": {
