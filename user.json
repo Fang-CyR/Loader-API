@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "username": "admin",
+      "password": "admin",
+      "expired": "2027-12-31",
+      "status": "active"
+    },
+    {
+      "username": "demo",
+      "password": "demo123",
+      "expired": "2026-10-01",
+      "status": "active"
+    }
+  ]
+}
