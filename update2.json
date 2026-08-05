@@ -47,7 +47,8 @@
       "plugin": {
         "version": 1,
         "url": "https://Fang-CyR.github.io/Loader-API/plugin64.apk",
-        "file": "plugin.apk"
+        "file": "plugin.apk",
+        "application": "a.a"
       },
 
       "native": {
