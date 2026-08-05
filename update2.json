@@ -69,6 +69,38 @@
       },
 
       "is64Bit": true
+    },
+    
+    {
+      "id": "mlbb",
+      "name": "Mobile Legends: Bang Bang (64-Bit)",
+      "packageName": "com.mobile.legends",
+
+      "plugin": {
+        "version": 7,
+        "url": "https://Fang-CyR.github.io/Loader-API/plugin64.apk",
+        "file": "plugin.apk",
+        "application": "a.a"
+      },
+
+      "native": {
+        "version": 9,
+        "url": "https://Fang-CyR.github.io/Loader-API/liblibpg64-lib.so",
+        "file": "libplugin.so"
+      },
+
+      "daemon": {
+        "version": 9,
+        "url": "https://Fang-CyR.github.io/Loader-API/daemon64",
+        "file": "daemon"
+      },
+
+      "status": {
+        "type": "safe",
+        "message": "Safe"
+      },
+
+      "is64Bit": true
     }
 
   ]
