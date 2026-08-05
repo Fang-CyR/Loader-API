@@ -1,7 +1,7 @@
 {
   "loader": {
     "version": 5,
-    "forceUpdate": false,
+    "forceUpdate": true,
     "downloadUrl": "https://Fang-CyR.github.io/Loader-API/",
     "website": "https://Fang-CyR.github.io/Loader-API/",
     "updateInfo": {
