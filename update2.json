@@ -100,7 +100,7 @@
       },
 
       "status": {
-        "type": "maintance",
+        "type": "maintenance",
         "message": "maintance hehe"
       }
     }
