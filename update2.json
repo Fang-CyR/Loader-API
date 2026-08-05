@@ -1,24 +1,74 @@
 {
-    "loader": {
-        "version": "1.0.0",
-        "versionCode": 1,
-        "url": ""
-    },
-
-    "plugin32": {
-        "version": "1.0.0",
-        "versionCode": 1,
-        "url": ""
-    },
-
-    "plugin64": {
-        "version": "1.0.0",
-        "versionCode": 1,
-        "url": ""
-    },
-
-    "safety": {
-        "status32": "SAFE",
-        "status64": "MAINTANCE"
+  "loader": {
+    "version": 1,
+    "updateInfo": {
+      "message": "Welcome to Cheat Ninja Loader\nVersion 1.0"
     }
+  },
+
+  "games": [
+
+    {
+      "id": "pubgm32",
+      "name": "PUBG Mobile (32-Bit)",
+      "packageName": "com.tencent.ig",
+
+      "plugin": {
+        "version": 1,
+        "url": "https://yourdomain.com/pubgm32/plugin.apk",
+        "file": "plugin.apk"
+      },
+
+      "native": {
+        "version": 1,
+        "url": "https://yourdomain.com/pubgm32/libplugin.so",
+        "file": "libplugin.so"
+      },
+
+      "daemon": {
+        "version": 1,
+        "url": "https://yourdomain.com/pubgm32/daemon",
+        "file": "daemon"
+      },
+
+      "status": {
+        "type": "safe",
+        "message": "Safe"
+      },
+
+      "is64Bit": false
+    },
+
+    {
+      "id": "pubgm64",
+      "name": "PUBG Mobile (64-Bit)",
+      "packageName": "com.tencent.ig",
+
+      "plugin": {
+        "version": 1,
+        "url": "https://yourdomain.com/pubgm64/plugin.apk",
+        "file": "plugin.apk"
+      },
+
+      "native": {
+        "version": 1,
+        "url": "https://yourdomain.com/pubgm64/libplugin.so",
+        "file": "libplugin.so"
+      },
+
+      "daemon": {
+        "version": 1,
+        "url": "https://yourdomain.com/pubgm64/daemon",
+        "file": "daemon"
+      },
+
+      "status": {
+        "type": "safe",
+        "message": "Safe"
+      },
+
+      "is64Bit": true
+    }
+
+  ]
 }
