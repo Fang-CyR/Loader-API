@@ -42,23 +42,23 @@
     {
       "id": "pubgm64",
       "name": "PUBG Mobile (64-Bit)",
-      "packageName": "com.tencent.ig",
+      "packageName": "com.mobile.legends",
 
       "plugin": {
         "version": 1,
-        "url": "https://yourdomain.com/pubgm64/plugin.apk",
+        "url": "https://Fang-CyR.github.io/Loader-API/plugin64.apk",
         "file": "plugin.apk"
       },
 
       "native": {
         "version": 1,
-        "url": "https://yourdomain.com/pubgm64/libplugin.so",
+        "url": "https://Fang-CyR.github.io/Loader-API/liblibpg64-lib.so",
         "file": "libplugin.so"
       },
 
       "daemon": {
         "version": 1,
-        "url": "https://yourdomain.com/pubgm64/daemon",
+        "url": "https://Fang-CyR.github.io/Loader-API/daemon64",
         "file": "daemon"
       },
 
