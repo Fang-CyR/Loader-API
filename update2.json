@@ -1,8 +1,12 @@
 {
   "loader": {
     "version": 1,
+    "forceUpdate": false,
+    "downloadUrl": "https://Fang-CyR.github.io/Loader-API/",
+    "website": "https://Fang-CyR.github.io/Loader-API/",
     "updateInfo": {
-      "message": "Welcome to Cheat Ninja Loader\nVersion 1.0"
+      "title": "Cheat Ninja Loader",
+      "message": "Welcome to Cheat Ninja Loader\nVersion 1.0\n\n- New UI\n- Better Downloader\n- Faster Launch"
     }
   },
 
@@ -12,11 +16,13 @@
       "id": "pubgm32",
       "name": "PUBG Mobile (32-Bit)",
       "packageName": "com.tencent.ig",
+      "is64Bit": false,
 
       "plugin": {
         "version": 1,
         "url": "https://yourdomain.com/pubgm32/plugin.apk",
-        "file": "plugin.apk"
+        "file": "plugin.apk",
+        "application": "a.a"
       },
 
       "native": {
@@ -34,15 +40,14 @@
       "status": {
         "type": "safe",
         "message": "Safe"
-      },
-
-      "is64Bit": false
+      }
     },
 
     {
       "id": "pubgm64",
       "name": "PUBG Mobile (64-Bit)",
-      "packageName": "com.mobile.legends",
+      "packageName": "com.tencent.ig",
+      "is64Bit": true,
 
       "plugin": {
         "version": 1,
@@ -66,15 +71,14 @@
       "status": {
         "type": "safe",
         "message": "Safe"
-      },
-
-      "is64Bit": true
+      }
     },
-    
+
     {
       "id": "mlbb",
       "name": "Mobile Legends: Bang Bang (64-Bit)",
       "packageName": "com.mobile.legends",
+      "is64Bit": true,
 
       "plugin": {
         "version": 7,
@@ -98,9 +102,7 @@
       "status": {
         "type": "safe",
         "message": "Safe"
-      },
-
-      "is64Bit": true
+      }
     }
 
   ]
