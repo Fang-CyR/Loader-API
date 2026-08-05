@@ -100,8 +100,8 @@
       },
 
       "status": {
-        "type": "safe",
-        "message": "Safe"
+        "type": "maintance",
+        "message": "maintance hehe"
       }
     }
 
