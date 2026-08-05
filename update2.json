@@ -38,8 +38,8 @@
       },
 
       "status": {
-        "type": "safe",
-        "message": "Safe"
+        "type": "Maintance",
+        "message": "Plugin Is Maintance, Please Wait .."
       }
     },
 
