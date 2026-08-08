@@ -1,9 +1,9 @@
 {
     "loader": {
-        "version": "1.5",
+        "version": "2.5",
         "changelog": "Fixed bugs and improved loader",
         "maintenance": {
-            "status": "true",
+            "status": "false",
             "message": "Server is under maintenance"
         }
     },
