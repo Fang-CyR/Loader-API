@@ -1,6 +1,6 @@
 {
     "loader": {
-        "version": "2.5",
+        "version": "1.5",
         "changelog": "Fixed bugs and improved loader",
         "maintenance": {
             "status": "false",
@@ -15,14 +15,23 @@
 
     "plugin64": {
         "version": "1.0",
-        "url": "https://Fang-CyR.github.io/Loader-API/plugin64.apk"
+        "url": "https://example.com/plugin64.apk"
     },
 
-    "status32bit": {
-        "name": "Safe"
-    },
-
-    "status64bit": {
-        "name": "Safe"
-    }
+    "games": [
+        {
+            "id": "pubgm32",
+            "name": "PUBG Mobile",
+            "version": "15.3",
+            "status": "Safe",
+            "architecture": "32-Bit"
+        },
+        {
+            "id": "pubgm64",
+            "name": "PUBG Mobile",
+            "version": "15.3",
+            "status": "Safe",
+            "architecture": "64-Bit"
+        }
+    ]
 }
