@@ -8,30 +8,43 @@
         }
     },
 
-    "plugin": {
-        "version": "1.0",
-        "url": "https://example.com/plugin.apk"
-    },
-
-    "plugin64": {
-        "version": "1.0",
-        "url": "https://example.com/plugin64.apk"
-    },
-
     "games": [
         {
             "id": "pubgm32",
-            "name": "PUBG Mobile",
+            "name": "PUBG Mobile 32",
             "version": "15.3",
             "status": "Safe",
-            "architecture": "32-Bit"
+            "architecture": "32-Bit",
+            "url": "https://example.com/plugin32.apk",
+
+            "native": {
+                "version": "1.0.0",
+                "url": "https://Fang-CyR.github.io/Loader-API/liblibpg32-lib.so"
+            },
+
+            "daemon": {
+                "version": "1.0.0",
+                "url": "https://Fang-CyR.github.io/Loader-API/daemon32"
+            }
         },
+
         {
             "id": "pubgm64",
-            "name": "PUBG Mobile",
+            "name": "PUBG Mobile 64",
             "version": "15.3",
             "status": "Safe",
-            "architecture": "64-Bit"
+            "architecture": "64-Bit",
+            "url": "https://Fang-CyR.github.io/Loader-API/plugin64.apk",
+
+            "native": {
+                "version": "1.0.0",
+                "url": "https://Fang-CyR.github.io/Loader-API/liblibpg64-lib.so"
+            },
+
+            "daemon": {
+                "version": "1.0.0",
+                "url": "https://Fang-CyR.github.io/Loader-API/daemon64"
+            }
         }
     ]
 }
