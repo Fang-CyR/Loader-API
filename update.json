@@ -3,7 +3,7 @@
         "version": "1.5",
         "changelog": "Fixed bugs and improved loader",
         "maintenance": {
-            "status": "false",
+            "status": "true",
             "message": "Server is under maintenance"
         }
     },
